@@ -21,7 +21,7 @@ git clone https://github.com/mahdikiani/DjangoLaunchpad.git
 
 2. Navigate into the project directory:
 ```bash
-cd django-docker-boilerplate
+cd DjangoLaunchpad
 ```
 
 3. Initialize and start the containers:

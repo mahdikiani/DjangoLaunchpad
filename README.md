@@ -16,7 +16,7 @@ This boilerplate provides a comprehensive setup for a Django application, utiliz
 ## Quick Start
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourgithubusername/django-docker-boilerplate.git
+git clone https://github.com/mahdikiani/DjangoLaunchpad.git
 ```
 
 2. Navigate into the project directory:
